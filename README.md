@@ -8,6 +8,4 @@ Desafio Git - DIO
 
 ## Links Uteis
 
-[Download Git Hub](Links para Downloads
-
-*https://git-scm.com/downloads)
+[Download Git Hub] (https://git-scm.com/downloads)
